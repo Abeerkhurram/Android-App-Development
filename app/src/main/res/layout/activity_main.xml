@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="373dp"
         android:layout_height="62dp"
-        android:text="My First App"
+        android:text="My First App "
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
 
